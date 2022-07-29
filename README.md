@@ -17,8 +17,6 @@ Las redes neuronales artificiales, o simplemente redes neuronales (NN), Se han p
 
 las senales˜ de entrada xi son voltajes y las wi son conduc- tancias de resistencias controlables; la salida de la red es la suma de las corrientes causadas por los voltajes de entrada. El problema es encontrar un conjunto adecuado de conductancias (o pesos) de modo que el comportamiento de entrada-salida del Adaline este´ cerca de un conjunto de puntos de datos de
 
-2nd Santiago Guerrero    Facultad de Ingenier´ıa       Universidad de Antioquia Medell´ın, Colombia        davids.guerrero@udea.edu.co
-
 ![](Aspose.Words.500a21ea-670b-49f2-851b-476821802036.001.png)
 
 Fig. 1. Neurona
