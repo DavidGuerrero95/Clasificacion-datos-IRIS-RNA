@@ -1,18 +1,15 @@
-﻿Clasificacion´ de datos “IRIS” mediante RNA
+# Clasificación de datos “IRIS” mediante RNA
 
-1st Daniel Bustamante Facultad de Ingenier´ıa
 
-Universidad de Antioquia        Medell´ın, Colombia             dmauricio.bustamante@udea.edu.co
-
-Abstract—The selection of parameters and designing neural networks problem is of great importance when designing classi- fication algorithm. This paper presents presents a graphic way of how to select the ideal parameters, with them to make an approach to the development of machine learning algorithms, specifically the algorithm of monolayer and multilayer neural networks to perform the classification of plants.
+Abstract—The selection of parameters and designing neural networks problem is of great importance when designing classification algorithm. This paper presents presents a graphic way of how to select the ideal parameters, with them to make an approach to the development of machine learning algorithms, specifically the algorithm of monolayer and multilayer neural networks to perform the classification of plants.
 
 Index Terms—clasification, neural network, machine learning, data set, Bias.
 
-1. INTRODUCCIO´ N
+1. INTRODUCCIÓN
 
 A. Redes Neuronales
 
-El cerebro humano es una fuente de inteligencia natural y una computadora paralela verdaderamente notable. El cerebro procesa informacion´ incompleta obtenida por percepcion´ a un ritmo incre´ıblemente rapido.´ Las celulas´ nerviosas funcionan unas 106 veces mas´ lentamente que las puertas de los circuitos electronicos,´ pero el cerebro humano procesa la informacion´ visual y auditiva mucho mas´ rapido´ que las computadoras modernas, Inspirandose´ en el cerebro se han estado explorando las redes neuronales artificiales, se modela el cerebro como un sistema dinamico´ no lineal de tiempo continuo en arquitec- turas conexionistas que se espera que imiten los mecanismos cerebrales para simular un comportamiento inteligente [1].
+El cerebro humano es una fuente de inteligencia natural y una computadora paralela verdaderamente notable. El cerebro procesa informacion´ incompleta obtenida por percepción a un ritmo increíblemente rapido.´ Las celulas´ nerviosas funcionan unas 106 veces mas´ lentamente que las puertas de los circuitos electronicos,´ pero el cerebro humano procesa la informacion´ visual y auditiva mucho mas´ rapido´ que las computadoras modernas, Inspirandose´ en el cerebro se han estado explorando las redes neuronales artificiales, se modela el cerebro como un sistema dinamico´ no lineal de tiempo continuo en arquitec- turas conexionistas que se espera que imiten los mecanismos cerebrales para simular un comportamiento inteligente [1].
 
 Las redes neuronales artificiales, o simplemente redes neuronales (NN), Se han propuesto e investigado bastantes modelos NN en los ultimos´ anos.˜ Estos modelos NN se pueden clasificar de acuerdo con varios criterios, como sus metodos´ de aprendizaje (supervisado versus no supervisado), arquitecturas (feedforward vs recurrente), tipos de salida (binario versus continuo), tipos de nodo (uniforme versus h´ıbrido), implementaciones (software versus hardware), pesos de conexion´ (ajustables versus cableados), operaciones (mo- tivadas biologicamente´ versus motivadas psicologicamente),´ etc. En este caso nos limitamos al modelado de problemas con conjuntos de datos de entrada-salida deseados, por lo que las redes resultantes deben tener parametros´ ajustables que se actualicen mediante una regla de aprendizaje supervisado.
 
